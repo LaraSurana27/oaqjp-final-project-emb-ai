@@ -1,4 +1,4 @@
-# Emotion Detector – Final Project
+# Final Project
 
 An AI-powered web application that detects emotions in text using the **IBM Watson NLP EmotionPredict API** and serves results through a **Flask** web interface.
 
